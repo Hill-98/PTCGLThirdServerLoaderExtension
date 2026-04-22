@@ -1,7 +1,5 @@
 ﻿using CredentialManagement;
 using HarmonyLib;
-using System;
-using System.IO;
 
 namespace PTCGLThirdServerLoaderExtension.Patches
 {
